@@ -26,7 +26,7 @@ docker-compose up
             <td align="center"></td>
         </tr>
         <tr>
-            <td align="center">/POST</td>
+            <td align="center">POST</td>
             <td align="center">/banner</td>
             <td align="center"></td>
         </tr>
